@@ -1,4 +1,4 @@
-baseurl = "https://jendiamond/github.io/develedge"
+baseurl = "https://jendiamond.github.io/develedge"
 themeDir = "theme"
 publishDir = "docs"
 languageCode = "en-us"
