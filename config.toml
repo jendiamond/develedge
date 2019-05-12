@@ -1,8 +1,10 @@
-baseURL = "https://jendiamond.github.io/develedge"
+baseurl = "https://jendiamond.github.io/develedge"
+themeDir = "theme"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Developer Ledger"
 theme = "kube"
+
 description = "Resources by & for Jen Diamond"
 Paginate = 10
 [Params]
