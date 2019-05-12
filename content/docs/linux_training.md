@@ -5,6 +5,9 @@ draft: true
 ---
 
 # Linux Bootcamp
+
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
 + ssh -p 2022 jordan@obscurty
 
 + ssh nsl@linuxclass-005.nullpro.be
