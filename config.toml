@@ -1,4 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Developer Ledger"
 theme = "hestia-pure"
+
+[author]
+ author = "Jen Diamond"
+ profile = "Software developer working in Los Angeles."
+ image = 'image/theme/profile.jpg'
+
+[Params]
+ localeOgp = "en"
+ description = "Resource Blog"
+ keywords = "samvera, blacklight"
+ twitter = "jendiamond"
+ github = "jendiamond"
